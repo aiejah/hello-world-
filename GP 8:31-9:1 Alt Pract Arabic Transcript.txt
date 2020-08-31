@@ -1,0 +1,390 @@
+﻿==================================
+
+نسخة HPGRC
+
+
+
+Correlation ID = 8055c97f-82fc-0f5a-d021-1a2ef2923863
+
+
+
+التاريخ
+
+Mon Aug 31 2020 06:00:19 GMT-0500 (Central Daylight Time)
+
+
+
+==================================
+
+المحادثة HPGRC
+
+
+
+Mr Isaac @ 06:02:30
+
+Translation (Arabic): الي الوراء.
+
+Recognition (الإنكليزية): (Backwards.)
+
+
+
+Mr Isaac @ 06:04:26
+
+Translation (Arabic): مرحبا العلماء، السيد إسحاق هنا. فقط لإعطائك مقدمة صغيرة في البديل
+
+Recognition (الإنكليزية): (Hi scholars, Mr Isaac here. Just to kind of give you a little intro into the alternative.)
+
+
+
+Mr Isaac @ 06:04:40
+
+Translation (Arabic): النشاط والمؤشرات قليلا آنا على العمل مع Desmos ، 'السبب قد يكون هذا وسيلة لم تكن قد عملت مع الأرقام العشرية من قبل ، وبالتالي فإن فكرة هذا النشاط مماثلة لما كنت قد رأيت في.
+
+Recognition (الإنكليزية): (Activity and Anna little pointers on working with Desmos, 'cause this might be a way that you have not worked with decimals before, so the idea of this activity similar to what you might have seen in the.)
+
+
+
+Mr Isaac @ 06:04:53
+
+Translation (Arabic): درس صغير هو أننا في الواقع سنقوم باستيراد صورة إلى Desmos ، لذلك أول شيء للعثور على صورة لذلك أود أن أقترح الذهاب إلى جوجل.
+
+Recognition (الإنكليزية): (Mini lesson is we're we're actually going to import a picture into Desmos, so the first thing to find a picture so I would suggest going to Google.)
+
+
+
+Mr Isaac @ 06:05:10
+
+Translation (Arabic): واستخدام جوجل بدلا من صورتك الخاصة. فقط لأن الهواتف بها صور نوع من في شكل غريب. الترميز ومعظم لنا لا التعامل معها بشكل جيد جدا. لذا دعنا نذهب
+
+Recognition (الإنكليزية): (And using Google rather than your own picture. Just 'cause phones have pictures. Kind of in a weird format. Encoding and us most doesn't handle them very well. So let's go.)
+
+
+
+Mr Isaac @ 06:05:14
+
+Translation (Arabic): اختبار.
+
+Recognition (الإنكليزية): (Test.)
+
+
+
+Mr Isaac @ 06:05:19
+
+Translation (Arabic): هل تبحث عن صورتنا التي تريدها؟
+
+Recognition (الإنكليزية): (Do you just search for our image you want?)
+
+
+
+Mr Isaac @ 06:05:34
+
+Translation (Arabic): دعونا نقوم بعمل واحد مع دائرة.
+
+Recognition (الإنكليزية): (Let's do the one with a circle.)
+
+
+
+Mr Isaac @ 06:05:42
+
+Translation (Arabic): إذاً سترغب بحفظ تلك الصورة
+
+Recognition (الإنكليزية): (Then so you're going to want to save that image.)
+
+
+
+Mr Isaac @ 06:05:47
+
+Translation (Arabic): حتى تكون على حاسوبك
+
+Recognition (الإنكليزية): (Until you're on your computer.)
+
+
+
+Mr Isaac @ 06:06:54
+
+Translation (Arabic): عذرًا لذلك. حتى الآن انها محفوظة على جهاز الكمبيوتر الخاص بي هنا ككتاب ماك. هو يظهر هنا وكروم بعض. في بعض الأحيان عليك أن تذهب إلى مجلد التنزيلات للعثور عليه.
+
+Recognition (الإنكليزية): (Sorry about that. So now it's saved onto my computer here as a Mac book. It appears here and chrome some. Sometimes you have to go into your downloads folder to find it.)
+
+
+
+Mr Isaac @ 06:07:08
+
+Translation (Arabic): لكن بعد ذلك تذهب إلى dezmostdesmos.com/calculator كما انها على صفحة قماش الحق هنا انقر هناك ومن ثم كنت فتحت للتو مع هذا النوع من فارغة يفعل معظم.
+
+Recognition (الإنكليزية): (But then you go over to dezmostdesmos.com/calculator. It's also on the canvas page right here an you click there and then you're just opened up with this kind of blank does most.)
+
+
+
+Mr Isaac @ 06:07:15
+
+Translation (Arabic): الرسم البياني حاسبة ، وقالت انها سوف انقر فوق ثلاثة خطوط هناك يقول الرسم البياني المفتوح.
+
+Recognition (الإنكليزية): (Graphing calculator, she will click the three lines right there it says open graph.)
+
+
+
+Mr Isaac @ 06:07:31
+
+Translation (Arabic): الانتظار آسف، وليس 3 خطوط. عفوا ، علامة زائد زائد علامة الحق تحت ثلاثة خطوط إضافة البند يمكنك الذهاب الى الصورة ، والآن كنت قد تضطر إلى العثور على الصورة أينما كنت تعيينها ، لذلك أنا وضعه في بلدي.
+
+Recognition (الإنكليزية): (Wait sorry, not 3 lines. Excuse me, the plus sign plus sign right below the three lines add item you can go to image and now you're going to have to find the image wherever you set it, so I put it into my.)
+
+
+
+Mr Isaac @ 06:07:31
+
+Translation (Arabic): مجلد التنزيلات.
+
+Recognition (الإنكليزية): (Downloads folder.)
+
+
+
+Mr Isaac @ 06:07:36
+
+Translation (Arabic): لذا ها هو. قبضة التنبيه وانقر فوق فتح.
+
+Recognition (الإنكليزية): (So there it is. The alarm fist and click open.)
+
+
+
+Mr Isaac @ 06:07:40
+
+Translation (Arabic): ربما؟
+
+Recognition (الإنكليزية): (Maybe?)
+
+
+
+Mr Isaac @ 06:07:51
+
+Translation (Arabic): نعم، وهكذا هناك هو. انها فقط المستوردة تلقائيا في. يمكنك اللعب مع حولها إذا كنت ترغب في تحريكه وجعله أكبر. اجعلها أصغر
+
+Recognition (الإنكليزية): (Yeah, and so there it is. It just automatically imported it in. You can play around with if you want to move it and make it bigger. Make it smaller.)
+
+
+
+Mr Isaac @ 06:08:05
+
+Translation (Arabic): ولكن أود أن أقترح مجرد ترك الأمر كما هو ، uhm ، ومن ثم هناك مهمة المقبل هو المكان ثلاث نقاط للرجل. يمكن أن تكون نوع من أي ثلاث نقاط على الرقم أينما تريد لهم أن يكونوا.
+
+Recognition (الإنكليزية): (But I would suggest just leaving it as it is, uhm, and then so there are next task is the place three points a man. They can be kind of any three points on the figure wherever you want them to be.)
+
+
+
+Mr Isaac @ 06:08:09
+
+Translation (Arabic): أنا و(آن) نقترح جعلها نوعاً ما
+
+Recognition (الإنكليزية): (Ann and I would suggest making them kind of.)
+
+
+
+Mr Isaac @ 06:08:23
+
+Translation (Arabic): من السهل قذف لهم قليلا مثل هذا واحد. هذا إذا أردت استخدام الإصبع الخنصر، مفصل الإصبع الخنصر. أوهم، وأود أن المضي قدما ونسمي ذلك هناك.
+
+Recognition (الإنكليزية): (Easy fudge them a little bit like this one. This if I wanted to use the pinky finger, the knuckle of the pinky finger. Uhm, I would go ahead and call it that right there.)
+
+
+
+Mr Isaac @ 06:08:25
+
+Translation (Arabic): وهذا هو.
+
+Recognition (الإنكليزية): (And so that is.)
+
+
+
+Mr Isaac @ 06:08:39
+
+Translation (Arabic): 1 2 إلى اليمين، وهو x صحيح؟ إيجابي جداً اثنين وواحد فوق. اذاً هناك يمكنني ان اكتب في الفاصلة الأولى
+
+Recognition (الإنكليزية): (1 two to the right, which is X right? So positive two and one up. So there I can just type in two comma one.)
+
+
+
+Mr Isaac @ 06:08:53
+
+Translation (Arabic): وها هو. أحب تسميته. أعتقد أنه من المفيد حقا عندما كنت تحميل هذا لي انها ستكون مفيدة حقا إذا كنت التسمية مع الشيء الجميل حول تلك أكثر من ذلك كما يمكنك جعله كبيرا حقا حتى أنه نوع من تبرز.
+
+Recognition (الإنكليزية): (And there it is. I like label it. I think it's really helpful when you're uploading this to me it's going to be really helpful if you label it and with the nice thing about those most as you can make it really big so it kind of stands out.)
+
+
+
+Mr Isaac @ 06:09:07
+
+Translation (Arabic): وهكذا قم بذلك مرتين يمكننا أن نأخذ مقبض السبابة، وأقول أنه لا يذهب يمينا أو يسارا. يبقى عند 0، لكنه يرتفع 1 2
+
+Recognition (الإنكليزية): (And so then you just do that two more times. We could take the index finger knuckle, and I'd say that it doesn't go right or left. It stays at 0, but it goes up 1 two.)
+
+
+
+Mr Isaac @ 06:09:14
+
+Translation (Arabic): ربما ثلاث مرات، اذاً كانت X صفر ثم لماذا كانت ثلاث مرات
+
+Recognition (الإنكليزية): (Maybe three times, so that was X was zero and then our why was three.)
+
+
+
+Mr Isaac @ 06:09:16
+
+Translation (Arabic): لا.
+
+Recognition (الإنكليزية): (No.)
+
+
+
+Mr Isaac @ 06:09:32
+
+Translation (Arabic): و من ثم دعونا نفعل هذا، الطريقة الخاطئة التي هذا الرجل هناك أنا على الإبهام وأود أن أقول هذا.
+
+Recognition (الإنكليزية): (And then let's do let's do this one, the kind of but the wrong way that guy right there. I'm on the thumb and I would say that's.)
+
+
+
+Mr Isaac @ 06:09:36
+
+Translation (Arabic): 1 2 لليسار، وهو سالب.
+
+Recognition (الإنكليزية): (1 two to the left, which is negative.)
+
+
+
+Mr Isaac @ 06:09:50
+
+Translation (Arabic): X هي -2 ثم اعتقد انني ذاهب الى الذهاب مع الصفر وانها نوع من الحق في ما بين، ولكن أعتقد أنني سوف تذهب مع الصفر، وبالتالي فإن تلك ستكون نقاطي الثلاث. حسناً، تأكد
+
+Recognition (الإنكليزية): (X is negative two and then I think I'm gonna go with zero and it's kind of right in between, but I think I'll go with zero and so those would be my three points. Alright, make sure.)
+
+
+
+Mr Isaac @ 06:09:57
+
+Translation (Arabic): أضف تسميات لكل من هؤلاء الرجال، رجل إذا كنت تريد. دعونا نجعل كبيرة فقط حتى تتمكن من رؤيته حقا.
+
+Recognition (الإنكليزية): (Add labels to both of those guys, a man if you want. Let's make a big just so you can really see him.)
+
+
+
+Mr Isaac @ 06:10:18
+
+Translation (Arabic): ثم التالي هو حساب 2 مسافات. اهم، لذلك كنت نوع من اختيار اثنين من أزواج آن وحساب المسافة من هذا مثل من هذه النقطة الأولى إلى هنا وبعد ذلك. هنا هو هناك. من هناك عدد من مجموعات مختلفة التي يمكنك القيام به.
+
+Recognition (الإنكليزية): (And then the next is the calculate 2 distances. Uhm, so you kind of pick two pairs ann and calculate their distance from this like from this first point to here and then. Here it is there. From there are a number of different combinations that you can do.)
+
+
+
+Mr Isaac @ 06:10:21
+
+Translation (Arabic): هل لكن عليك أن تفعل ذلك فحسب؟
+
+Recognition (الإنكليزية): (Am but you just have to do to, uhm?)
+
+
+
+Mr Isaac @ 06:10:36
+
+Translation (Arabic): إذا كنت تريد بعض المساعدة في ذلك، يمكنك الذهاب إلى الدرس المصغر حيث أفعل ذلك مع نجمة. اهم ، ولكن أردت فقط أن أعطيك نوع من مقدمة في استيراد والصورة ومن ثم إعطاء.
+
+Recognition (الإنكليزية): (If you want some help with that, you can go to the mini lesson where I do that with a star. Uhm, but I just wanted to give you kind of an introduction at importing and the image and then giving the.)
+
+
+
+Mr Isaac @ 06:10:50
+
+Translation (Arabic): يشير بعض التسميات وأشياء من هذا القبيل ، لذلك أتطلع إلى رؤية الخطوة الأخيرة التي كنت ستفعل في الواقع هو اتخاذ لقطة من هذا. معظم الوقت يمكنك.
+
+Recognition (الإنكليزية): (Points up some labels and things like that, so I look forward to seeing the last step that you would do actually is to take a screenshot of this. Most of the time you can.)
+
+
+
+Mr Isaac @ 06:10:51
+
+Translation (Arabic): افعل ذلك
+
+Recognition (الإنكليزية): (Do that.)
+
+
+
+Mr Isaac @ 06:10:54
+
+Translation (Arabic): دعونا نرى لحظة واحدة.
+
+Recognition (الإنكليزية): (Let's see one moment.)
+
+
+
+Mr Isaac @ 06:10:56
+
+Translation (Arabic): لقد حصلت على
+
+Recognition (الإنكليزية): (I got.)
+
+
+
+Mr Isaac @ 06:13:43
+
+Translation (Arabic): عذرًا لذلك. حتى يتسنى لك أن تأخذ لقطة على ماك، وهو نوع من الكمبيوتر يمكنني استخدام هذا هو الأمر 3.
+
+Recognition (الإنكليزية): (Sorry about that. So you take a screenshot on a mac, which is a kind of computer I use that is a command 3.)
+
+
+
+Mr Isaac @ 06:13:45
+
+Translation (Arabic): في
+
+Recognition (الإنكليزية): (On)
+
+
+
+Mr Isaac @ 06:13:48
+
+Translation (Arabic): Microsoft.
+
+Recognition (الإنكليزية): (Microsoft.)
+
+
+
+Mr Isaac @ 06:13:58
+
+Translation (Arabic): أجهزة الكمبيوتر، أجهزة كمبيوتر ويندوز. هناك في كثير من الأحيان شاشة طباعة. عادة ما يكون قصيراً في PRT SCN.
+
+Recognition (الإنكليزية): (Computers, Windows computers. There's oftentimes a print screen. It's usually short into PRT SCN.)
+
+
+
+Mr Isaac @ 06:14:13
+
+Translation (Arabic): وهذا سوف التقاط صورة للشاشة، uhm، ويمكنك دائما محاولة وجوجل ذلك، أليس كذلك؟ مثل إذا كنت غير متأكد إذا كان لديك كتاب الكروم ، ولست متأكدا ما هو الحق في السكتة الدماغية الرئيسية. جوجل ذلك ، ونرى ما يقوله جوجل. هذا جزء من الوجود
+
+Recognition (الإنكليزية): (And that will take a picture of your screen, uhm, and you can always try and Google it, right? Like if you're not sure if you have a chrome book, I'm not sure what the right key stroke is. Google it, see what it what Google says. That's part about part of being.)
+
+
+
+Mr Isaac @ 06:14:26
+
+Translation (Arabic): متعلم مستقل. أوهم، واسمحوا أعرف. البريد الالكتروني لي إذا كان لديك أي أسئلة. Uhm ، وآمل أن هذا كان مفيدا وأنا متحمس حقا لمعرفة أي نوع من الصور التي تستورد كل شيء. يرجى جعلها مناسبة، ولكن uhm.
+
+Recognition (الإنكليزية): (A independent learner. Uhm, let know. Email me if you have any questions. Uhm, I hope this was helpful and I'm really excited to see what kind of images you all import. Do please make them appropriate, but uhm.)
+
+
+
+Mr Isaac @ 06:14:41
+
+Translation (Arabic): أعني، أنت في المدرسة الثانوية أو الآن أعتقد، uhm، كيفية التصرف في المدرسة. لذلك انه لشيء رائع أن أراك من خلال الفيديو. يرجى البريد الإلكتروني لي أو التوقف عن طريق فتح بلدي السيد ايزاك أو الغداء.
+
+Recognition (الإنكليزية): (I mean, you're high school or by now I think, uhm, how to act in school. So it's great to see you through through video. Please email me or stop by my Mr Isaacs opened or lunch.)
+
+
+
+Mr Isaac @ 06:14:43
+
+Translation (Arabic): أتمنى أن أراكم جميعاً قريباً
+
+Recognition (الإنكليزية): (I hope to see all of you soon.)
+
+
+
